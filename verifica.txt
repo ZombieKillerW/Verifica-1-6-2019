@@ -1,0 +1,5 @@
+Un autodromo richiede lo sviluppo di un software per analizzare i tempi realizzati dai piloti durante le gare.
+Nello specifico il sistema deve permettere di visualizzare la lista di piloti partecipanti a una gara e, per ogni pilota, la lista dei tempi effettuati in ogni giro (espressi in secondi).
+L'amministratore del sistema potrà ricercare il miglior tempo per ogni pilota, il miglior tempo assoluto e potrà visualizzare la lista di piloti in ordine di arrivo (ordine ricavato dai tempi inseriti nel sistema).
+Si realizzino i diagrammi UML del sistema e si sviluppi il codice (Java o C++ a scelta dello studente).
+Infine il progetto deve essere pubblicato su Git Hub
